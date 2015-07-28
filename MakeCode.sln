@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MakeCode", "MakeCode\MakeCode.vcxproj", "{CD4239C0-0537-454B-A9C3-CE028747A17A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Testdll", "Testdll\Testdll.vcxproj", "{2215C58F-BE89-4EA7-B758-F27E8B80EA66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD4239C0-0537-454B-A9C3-CE028747A17A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD4239C0-0537-454B-A9C3-CE028747A17A}.Debug|Win32.Build.0 = Debug|Win32
+		{CD4239C0-0537-454B-A9C3-CE028747A17A}.Release|Win32.ActiveCfg = Release|Win32
+		{CD4239C0-0537-454B-A9C3-CE028747A17A}.Release|Win32.Build.0 = Release|Win32
+		{2215C58F-BE89-4EA7-B758-F27E8B80EA66}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2215C58F-BE89-4EA7-B758-F27E8B80EA66}.Debug|Win32.Build.0 = Debug|Win32
+		{2215C58F-BE89-4EA7-B758-F27E8B80EA66}.Release|Win32.ActiveCfg = Release|Win32
+		{2215C58F-BE89-4EA7-B758-F27E8B80EA66}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
